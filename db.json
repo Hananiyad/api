@@ -1,1 +1,92 @@
-
+[
+  {
+    "id": 1,
+    "title": "Super Lux apartment",
+    "bathroom": 6,
+    "bedroom": 5,
+    "location": "Gaza",
+    "description": "Apartment in a two-storey house on an asphalt street of 12 meters in Deir, near Abu Arif Street. The house is on the edge of the land, and the rest of the area is cultivated, at a price of 529 dinars",
+    "price": 5000,
+    "image": "https://i.pinimg.com/564x/1e/6f/bc/1e6fbca3c0a1e61ba2a88f464d38ccf1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Kushan Tabu",
+    "bathroom": 5,
+    "bedroom": 4,
+    "location": "Deir al-Balah",
+    "description": "A villa on Salah El-Din Street in Gaza, the house is on the edge of the land, and the rest of the area is cultivated, at a price of 1052 dinars.",
+    "price": 4000,
+    "image": "https://i.pinimg.com/564x/17/f4/cc/17f4ccc8300ec58212e8256a9a8bf61b.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Apartment for sale",
+    "bathroom": 3,
+    "bedroom": 3,
+    "location": "Rafah",
+    "description": "Apartment in excellent condition for sale located near Omar Al Mukhtar Street",
+    "price": 3000,
+    "image": "https://i.pinimg.com/564x/bd/6b/1b/bd6b1bc284bea9a2a19dfd515e7104b3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Bone villa",
+    "bathroom": 7,
+    "bedroom": 5,
+    "location": "ٌGaza",
+    "description": "Villa in Al-Jeneina neighborhood for sale, land area 500 m, building area 320 m, it has a landmark and a main street, it has a ready water well, two separate entrances, a building designed according to the insulation system",
+    "price": 5000,
+    "image": "https://i.pinimg.com/736x/fa/35/3d/fa353defe93a900e24e8e24a600ede9e.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Ready to move",
+    "bathroom": 5,
+    "bedroom": 3,
+    "location": "ٌRafah",
+    "description": "Ready-to-move-in apartment with balcony overlooking Al-Aam Street",
+    "price": 4000,
+    "image": "https://i.pinimg.com/564x/74/2d/be/742dbe65319e7e91f6fe0d690ace93b4.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Classic villa",
+    "bathroom": 4,
+    "bedroom": 4,
+    "location": "ٌRafah",
+    "description": "Ground floor: living room, kitchen, storeroom, master bedroom with cloakroom and utility store - council room and dining room with two balconies, one on the kitchen and the other at the front of the house - internal staircase. First floor: master bedroom - two other bedrooms - large terrace",
+    "price": 2000,
+    "image": "https://i.pinimg.com/564x/23/13/a6/2313a604e3fae0422490987db2a25a15.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Villa Gala for daily rent",
+    "bathroom": 4,
+    "bedroom": 5,
+    "location": "Beit Hanoun",
+    "description": "A distinctive villa consisting of two floors, with American furniture, a private garden, a quiet atmosphere, and a stunning view",
+    "price": 3000,
+    "image": "https://i.pinimg.com/564x/83/e5/fd/83e5fda1eba28e7cf83504b078710d7e.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Al-Akaber Villa",
+    "bathroom": 4,
+    "bedroom": 5,
+    "location": "ٌKhan Younes",
+    "description": "A villa only for the elderly ??The chance of entering this villa is a guarantee that the happiness hormone will raise you to its highest level??",
+    "price": 4000,
+    "image": "https://i.pinimg.com/564x/34/c8/9d/34c89ddeb6dda37d4153a39f739f0109.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Furnished studio",
+    "bathroom": 1,
+    "bedroom": 1,
+    "location": "ٌJabalia",
+    "description": "Furnished studios 40-60 sqm near Toasty Restaurant",
+    "price": 1000,
+    "image": "https://i.pinimg.com/564x/7e/3e/fa/7e3efa75f646db20aceec1ffac97d0ef.jpg"
+  }
+]
